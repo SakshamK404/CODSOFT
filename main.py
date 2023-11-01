@@ -1,4 +1,4 @@
-#TIC-TAC-TOE AI
+
 import math
 PLAYER_X = 'X'
 PLAYER_O = 'O'
